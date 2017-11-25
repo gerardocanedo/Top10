@@ -1,15 +1,18 @@
-# Important Notice
-## Request for Comments
+# Release
 
-This version is not a final draft.
+## Important Notice
 
-The first release candidate received a great deal of push back, which caused a leadership change, involving the community in re-evaluating what the OWASP Top 10 is, the methodology, the data collection and analysis, and how we provide transparency and governance over the project. Most of all, the push back showed us how much passion the community has for the OWASP Top 10, and thus how critical it is for OWASP to get the Top 10 right for the majority of use cases.
+### Request for Comments
 
-We have worked extensively to validate the methodology, obtained a great deal of data on over 114,000 apps, and obtained qualitative data via survey by 550 community members on the two new categories – insecure deserialization and insufficient logging and monitoring.
+This is the text version of the OWASP Top 10, and although it is useful for translators and those interested in a text version, it's not the official release, which is the PowerPoint / PDF version. 
 
-We strongly urge for any corrections or issues to be logged at GitHub
+At this stage, we are asking for
 
-* https://github.com/OWASP/Top10/issues
+* Translations - we have some teams working already, but do reach out to us if you can help
+
+We strongly urge for any corrections or issues to be logged at GitHub:
+
+* [https://github.com/OWASP/Top10/issues](https://github.com/OWASP/Top10/issues)
 
 Through public transparency, we provide traceability and ensure that all voices are heard during this final month before publication.
 
